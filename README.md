@@ -18,13 +18,12 @@ The Calculator Project showcases the implementation of a user interface for perf
 2. Click on the digit buttons to input numbers.
 3. Click on the operator buttons (+, -, *, /) to perform calculations.
 4. Click the "Del" button to reset the input and output fields.
-5. You Can also use the link to browse the calculator: 
+5. You Can also use the link to browse the calculator: https://a26arpitaagarwal.github.io/Calculator.github.io/
 
 ## Project Structure
 
 The project structure is organized as follows:
-- `index.html`: The main HTML file containing the structure and content of the calculator.
-- `css/`: Contains the `styles.css` file for styling the calculator.
+- `index.html`: The main HTML file containing the structure and content of the calculator, it also includes the inline css with styles.
 - `README.md`: The documentation you are currently reading.
 
 ## Contributing
